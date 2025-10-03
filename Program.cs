@@ -35,7 +35,7 @@ app.MapGet("/weatherforecast", () =>
 
 app.MapGet("/", () =>
 {
-    return "Helow World ";
+    return "Say Helow World !!";
 })
 .WithName("HelowWorld");
 
