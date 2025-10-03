@@ -1,1 +1,4 @@
 "bin/\nobj/\n*.user" 
+ # .NET build artifacts
+[Bb]in/
+[Oo]bj/
