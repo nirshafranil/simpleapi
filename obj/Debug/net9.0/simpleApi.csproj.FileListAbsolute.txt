@@ -31,3 +31,4 @@ C:\dev\simpleApi\obj\Debug\net9.0\refint\simpleApi.dll
 C:\dev\simpleApi\obj\Debug\net9.0\simpleApi.pdb
 C:\dev\simpleApi\obj\Debug\net9.0\simpleApi.genruntimeconfig.cache
 C:\dev\simpleApi\obj\Debug\net9.0\ref\simpleApi.dll
+C:\dev\simpleApi\obj\Debug\net9.0\simpleApi.sourcelink.json
